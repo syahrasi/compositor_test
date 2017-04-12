@@ -47,13 +47,17 @@
       "links": [
         {
           "href": "https://github.com/syahrasi/compositor_test",
-          "text": "GitHub"
+          "text": "My Site"
+        },
+        {
+          "href": "",
+          "text": "About"
         }
       ]
     },
     {
       "component": "header",
-      "heading": "compositor_test",
+      "heading": "Compositor Test",
       "subhead": "Compositor.io Test",
       "children": [
         {
@@ -79,14 +83,11 @@
       "component": "footer",
       "links": [
         {
-          "href": "https://github.com/syahrasi/compositor_test",
-          "text": "GitHub"
-        },
-        {
           "href": "https://github.com/syahrasi",
           "text": "syahrasi"
         }
-      ]
+      ],
+      "heading": ""
     }
   ]
 }
